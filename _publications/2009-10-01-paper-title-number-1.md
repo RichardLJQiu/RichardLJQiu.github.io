@@ -7,10 +7,8 @@ excerpt: 'Experimental observation of new intermediate phase in strongly correla
 date: 2015-09-24
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/1509.07463'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Qiu, R. L. J. et al. Evidence for a New Intermediate Phase in a Strongly Correlated 2D System near Wigner Crystallization. arXiv:1509.07463 [cond-mat] (2015)'
 ---
 This paper is under revision and will be submitted soon.
 
 [Download paper here](http://richardljqiu.github.io/files/1.pdf)
-
-Recommended citation: Qiu, R. L. J. et al. Evidence for a New Intermediate Phase in a Strongly Correlated 2D System near Wigner Crystallization. arXiv:1509.07463 [cond-mat] (2015).
