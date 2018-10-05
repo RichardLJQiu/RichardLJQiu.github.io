@@ -12,7 +12,7 @@ I am currently a second-year Medical Physics Resident at the Department of Radia
 
 | GPU Server| Auto-Contour Example|
 | --- | --- |
-|<img src="/images/GPUserver.jpg" alt="alt text" width="472" height='340'>  |<img src="/images/CBCTContour.jpg" alt="alt text" height="340">|
+|<img src="/images/GPUserver.jpg" alt="alt text" height='340'>  |<img src="/images/CBCTContour.jpg" alt="alt text" height="340">|
  
 
 I love to keep improving myself every day and learning new skills. Residency life is tough, but it instills a mindset of perseverance on me. The presentation and the book "Grit" by Dr. Angela Duckworth greatly inspired me. I started doing regular gym workout since March, 2017. Learning piano using the App "SimplyPiano" since April, 2018. I aslo did several fun home remodeling projects with my dad.
