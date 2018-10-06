@@ -23,32 +23,32 @@ var addressPoints = [
     "Baltimore, Maryland",
     39.2904,
     -76.6122
-  ]
+  ],
   [
     "St. Louis, Missouri",
     38.6270,
     -90.1994
-  ]  
+  ],  
   [
     "Miami, Florida",
     25.7617,
     -80.1918
-  ] 
+  ], 
   [
     "Dallas, Texas",
     32.7767,
     -96.7970
-  ]  
+  ],  
   [
     "Cleveland, Ohio",
     41.4993,
     -81.6944
-  ]   
+  ],   
   [
     "Cranberry Township, PA",
     40.6850,
     -80.1071
-  ]   
+  ],   
   [
     "Columbus, Ohio",
     39.9612,
