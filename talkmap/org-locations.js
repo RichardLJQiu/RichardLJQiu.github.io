@@ -55,4 +55,3 @@ var addressPoints = [
     -82.9988
   ]
 ];
-# Do not use space
