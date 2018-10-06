@@ -1,19 +1,7 @@
 var addressPoints = [
-  [
-    "Denver, Colorado",
-    39.7392,
-    -104.9903
-  ],
-  [
-    "Portland, Oregon",
-    45.5122,
-    -122.6587
-  ],
-  [
-    "Washington, D.C.",
-    38.9072,
-    -77.0369
-  ],
+  ["Denver, Colorado",39.7392,-104.9903],
+  ["Portland, Oregon",45.5122,-122.6587],
+  ["Washington, D.C.",38.9072,-77.0369],
   [
     "Boston, Massachusetts",
     42.3601,
