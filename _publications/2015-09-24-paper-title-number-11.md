@@ -2,7 +2,7 @@
 title: "Evidence for a New Intermediate Phase in a Strongly Correlated 2D System
 near Wigner Crystallization"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2015-09-24-paper-title-number-11
 excerpt: 'Experimental observation of new intermediate phase in strongly correlated GaAs 2DHGs'
 date: 2015-09-24
 venue: 'Arxiv'
